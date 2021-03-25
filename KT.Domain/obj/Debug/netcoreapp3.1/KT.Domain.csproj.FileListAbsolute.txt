@@ -1,0 +1,9 @@
+C:\Git\Pessoal\KamilaTeste\KT.Domain\bin\Debug\netcoreapp3.1\KT.Domain.deps.json
+C:\Git\Pessoal\KamilaTeste\KT.Domain\bin\Debug\netcoreapp3.1\KT.Domain.dll
+C:\Git\Pessoal\KamilaTeste\KT.Domain\bin\Debug\netcoreapp3.1\KT.Domain.pdb
+C:\Git\Pessoal\KamilaTeste\KT.Domain\obj\Debug\netcoreapp3.1\KT.Domain.csprojAssemblyReference.cache
+C:\Git\Pessoal\KamilaTeste\KT.Domain\obj\Debug\netcoreapp3.1\KT.Domain.AssemblyInfoInputs.cache
+C:\Git\Pessoal\KamilaTeste\KT.Domain\obj\Debug\netcoreapp3.1\KT.Domain.AssemblyInfo.cs
+C:\Git\Pessoal\KamilaTeste\KT.Domain\obj\Debug\netcoreapp3.1\KT.Domain.csproj.CoreCompileInputs.cache
+C:\Git\Pessoal\KamilaTeste\KT.Domain\obj\Debug\netcoreapp3.1\KT.Domain.dll
+C:\Git\Pessoal\KamilaTeste\KT.Domain\obj\Debug\netcoreapp3.1\KT.Domain.pdb
